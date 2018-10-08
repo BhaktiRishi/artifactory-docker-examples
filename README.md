@@ -5,8 +5,8 @@ For more detailed documentation on running Artifactory with Docker, please refer
 
 ## Docker
 To learn more about Docker and how to set it up, please refer to the [Docker](https://docs.docker.com) documentation.  
+#############
 
-######
 ## Examples
 The following examples are available
 - [Docker compose](docker-compose)
